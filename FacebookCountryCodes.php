@@ -1,3 +1,5 @@
+<?php
+
 class FacebookCountryConstants
 {
     public static $countryCodeToNames = [
